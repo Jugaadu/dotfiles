@@ -1,0 +1,1 @@
+/home/swapan/.vim/vimrc
